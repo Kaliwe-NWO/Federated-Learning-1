@@ -1,0 +1,10 @@
+5) Connecting the data with the remote mobile devices
+Bob and Alice are the two people who are involved in the whole cycle. For simulation purposes we send batches of dataset to all the network clients who interacting with the application using the global ML models.
+
+We can see that with the PySyft library and its PyTorch extension, we can perform operations with tensor pointers such as we can do with PyTorch API (but for some limitations that are still to be addressed).
+
+Now we connect with the workers named Alice and Bob for training the neural network with the data available with the parties.
+
+Thanks to PySyft, we were able to train a model without having any access to the remote and private data: for each batch, we sent the model to the current remote worker and get it back to the local machine before sending it to the worker of the next batch.
+
+Email me direct @ Bryantsperry@gmail.com Looking forward to collaborating with you! I have recorded a Personalized message for you. Visit www.thenewworldorder.com and click the word 'by' in the phrase "Powered by the DEI®". You will find a password protected vimeo. password is: welcome
